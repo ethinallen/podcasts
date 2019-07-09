@@ -1,5 +1,3 @@
-# podcasts
-curated list of good podcasts
 # A curated list of the most interesting Podcasts: for those skeptical of podcasts
 
 |<u>[Stuff You Should Know](https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx?si=pQZFl1RAT-iSKLiDkkVJFQ)</u>|
