@@ -42,3 +42,7 @@
 [Dollar Stores Vs Lettuce](https://open.spotify.com/episode/14Tggygat2LeW5GBkpKIVU?si=13nuYFKbTk2XkOjFgx9jYQ)
 [Bad Cops Are Expensive](https://open.spotify.com/episode/2bGBSIoXuUse1bAsudZoXB?si=4HDkO4bBRDKPQ3LhJpS38w)
 [The Seattle Experiment](https://open.spotify.com/episode/44UxVn3qvPvuxmnLJdNXmJ?si=jUI0l2bmSSOElzwDQi0wxw)
+
+|[<u>Broken Harts</u>](https://open.spotify.com/show/5t9b3xXCI8dM2R2R2MuduE?si=fBYIiAyvSP-P65lWu-0unQ)|
+|-|
+Exploration of the Hart Family Tragedy and the failings of the adoption system.
