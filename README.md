@@ -22,7 +22,10 @@
 [The Baffling Case of the Body On Somerton Beach](https://open.spotify.com/episode/3K5bgTvxx0GNRFcuKN6niS?si=63PNzCmtQLKduOAvFHfIzw)
 
 ---
-## [<u>The End Of The World with Josh Clark</u>](https://open.spotify.com/show/7sh9DwBEdUngxq1BefmnZ0?si=07Bjf7OsT-OFIVtf-jgz7g)
+|[<u>The End Of The World with Josh Clark</u>](https://open.spotify.com/show/7sh9DwBEdUngxq1BefmnZ0?si=07Bjf7OsT-OFIVtf-jgz7g)|
+|-|
+|Just listen to the whole thing they're all good.|
+
 ---
 |[<u>Crazy/Genius</u>](https://open.spotify.com/show/46iJKYSBSvS0pCjp0wLHIG?si=6MBANsANTCGfxKakGOCw7Q)|
 |-|
