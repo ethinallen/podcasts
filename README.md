@@ -1,5 +1,7 @@
 # A curated list of the most interesting Podcasts: for those skeptical of podcasts
 
+## General Knowledge 
+
 |<u>[Stuff You Should Know](https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx?si=pQZFl1RAT-iSKLiDkkVJFQ)</u>|
 |-|
 [Were Nazis Drug-Fueled Crankheads?](https://open.spotify.com/episode/5kxIYyj6VeSUav520RUTkK?si=g7ySFt3XSQCF4O3tSbWz6A)   
@@ -46,3 +48,6 @@
 |[<u>Broken Harts</u>](https://open.spotify.com/show/5t9b3xXCI8dM2R2R2MuduE?si=fBYIiAyvSP-P65lWu-0unQ)|
 |-|
 Exploration of the Hart Family Tragedy and the failings of the adoption system.
+
+---
+## Sports 
