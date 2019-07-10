@@ -1,6 +1,6 @@
 # A curated list of the most interesting Podcasts: for those skeptical of podcasts
 
-## General Knowledge 
+## General Knowledge Podcasts
 
 |<u>[Stuff You Should Know](https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx?si=pQZFl1RAT-iSKLiDkkVJFQ)</u>|
 |-|
@@ -23,12 +23,12 @@
 [How Condoms Work](https://open.spotify.com/episode/0Bky1ceUrg6POaIyJoPc5j?si=TcTqMmqnQ7CLVtGgrDrg5A)   
 [The Baffling Case of the Body On Somerton Beach](https://open.spotify.com/episode/3K5bgTvxx0GNRFcuKN6niS?si=63PNzCmtQLKduOAvFHfIzw)
 
----
+
 |[<u>The End Of The World with Josh Clark</u>](https://open.spotify.com/show/7sh9DwBEdUngxq1BefmnZ0?si=07Bjf7OsT-OFIVtf-jgz7g)|
 |-|
 |Just listen to the whole thing they're all good.|
 
----
+
 |[<u>Crazy/Genius</u>](https://open.spotify.com/show/46iJKYSBSvS0pCjp0wLHIG?si=6MBANsANTCGfxKakGOCw7Q)|
 |-|
 [Should We Break Up Amazon](https://open.spotify.com/episode/7mh3QcPKYMptVTdjYXdw5V?si=ExDmWp9WTyiLreC_dg2GLA)   
@@ -36,7 +36,7 @@
 [How Will Self-Driving Cars Change the World](https://open.spotify.com/episode/1jSeLD873G98mpuYpJCFiq?si=z7Xfc89bSY-X8jpPtkNaug)
 [Should We Be Afraid of AI in the Criminal Justice System?](https://open.spotify.com/episode/4k4PDdt9nUt17Xb1oSlLmx?si=cw83QNUURwevy198ZrmBdg)
 
----
+
 |[<u>Planet Money</u>](https://open.spotify.com/show/4FYpq3lSeQMAhqNI81O0Cn?si=rtA-6fEtS_CKjsJqIHr1Eg)|   
 |-|   
 [Stuck In China's Panopticon](https://open.spotify.com/episode/3BzWZfrIThG6OYj7qF9CUS?si=SXVZegSQSw-5zTd3VuGuOA)
@@ -45,9 +45,28 @@
 [Bad Cops Are Expensive](https://open.spotify.com/episode/2bGBSIoXuUse1bAsudZoXB?si=4HDkO4bBRDKPQ3LhJpS38w)
 [The Seattle Experiment](https://open.spotify.com/episode/44UxVn3qvPvuxmnLJdNXmJ?si=jUI0l2bmSSOElzwDQi0wxw)
 
+---
+# Thematic Podcasts
+These podcasts are more thematic than the above: each week's content is less subject to change than the general knowledge podcasts. Thus, I am just going to attach the 'ABOUT' section from spotify.
+
+---
+## Political Podcasts
+| [FiveThirtyEight Politics](https://open.spotify.com/show/3C0iP88KSoGZk5KNWmuyF1?si=T4Uos0N9Q1avOBWjgkemRw) |
+|-|
+'Nate Silver and the FiveThirtyEight team cover the latest in politics, tracking the issues and "game-changers" every week.'
+
+
+---
+## Sports Podcasts
+
+| [Hot Takedown](https://open.spotify.com/show/08dOnBbIivij3aWDZS3uwW?si=ZHFLgwsZSAikGcmdivsUUQ) |
+| - |
+'Hot Takedown is the weekly sports podcast from FiveThirtyEight. On it, the crew uses numbers to dissect the week in sports, taking down some silly hot takes in the process.'
+
+
+---
+## True Crime Podcasts
+
 |[<u>Broken Harts</u>](https://open.spotify.com/show/5t9b3xXCI8dM2R2R2MuduE?si=fBYIiAyvSP-P65lWu-0unQ)|
 |-|
 Exploration of the Hart Family Tragedy and the failings of the adoption system.
-
----
-## Sports 
