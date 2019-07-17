@@ -4,6 +4,7 @@
 
 |<u>[Stuff You Should Know](https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx?si=pQZFl1RAT-iSKLiDkkVJFQ)</u>|
 |-|
+[The Disappearance of the Yuba County Five](https://open.spotify.com/episode/0C7aXBHep04qDklfu1D21u?si=eBL7nzYkSyeQxECnVh7J7g)   
 [Were Nazis Drug-Fueled Crankheads?](https://open.spotify.com/episode/5kxIYyj6VeSUav520RUTkK?si=g7ySFt3XSQCF4O3tSbWz6A)   
 [The July 20th Plot to Assassinate Hitler](https://open.spotify.com/episode/5Hs38V8f74BbSJgRBK7muo?si=C7P2wqfXTpGGQfeKxqrioA)   
 [What was the Tunguska event?](https://open.spotify.com/episode/1kmA0djD4iSYsHiBCqyYke?si=Q19RuRw3QKuG1ZW7p8G_KA)   
