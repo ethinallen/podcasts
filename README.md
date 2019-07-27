@@ -52,22 +52,17 @@
 # Thematic Podcasts
 These podcasts are more thematic than the above: each week's content is less subject to change than the general knowledge podcasts. Thus, I am just going to attach the 'ABOUT' section from spotify.
 
----
 ## Political Podcasts
 | [FiveThirtyEight Politics](https://open.spotify.com/show/3C0iP88KSoGZk5KNWmuyF1?si=T4Uos0N9Q1avOBWjgkemRw) |
 |-|
 'Nate Silver and the FiveThirtyEight team cover the latest in politics, tracking the issues and "game-changers" every week.'
 
-
----
 ## Sports Podcasts
 
 | [Hot Takedown](https://open.spotify.com/show/08dOnBbIivij3aWDZS3uwW?si=ZHFLgwsZSAikGcmdivsUUQ) |
 | - |
 'Hot Takedown is the weekly sports podcast from FiveThirtyEight. On it, the crew uses numbers to dissect the week in sports, taking down some silly hot takes in the process.'
 
-
----
 ## True Crime Podcasts
 
 |[<u>Broken Harts</u>](https://open.spotify.com/show/5t9b3xXCI8dM2R2R2MuduE?si=fBYIiAyvSP-P65lWu-0unQ)|
