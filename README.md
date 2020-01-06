@@ -48,9 +48,23 @@
 [Bad Cops Are Expensive](https://open.spotify.com/episode/2bGBSIoXuUse1bAsudZoXB?si=4HDkO4bBRDKPQ3LhJpS38w)
 [The Seattle Experiment](https://open.spotify.com/episode/44UxVn3qvPvuxmnLJdNXmJ?si=jUI0l2bmSSOElzwDQi0wxw)
 
+|[<u> Reply All</u>](https://open.spotify.com/episode/12K7myrJzgp7KOxePKzIFu?si=1kBv0vkdTqi1mmdQ2a91FQ) |
+|-|
+[The Case of the Phanton Caller](https://open.spotify.com/episode/12K7myrJzgp7KOxePKzIFu?si=1kBv0vkdTqi1mmdQ2a91FQ)
+[Adam Pisces and the $2 Coke](https://open.spotify.com/episode/2U6uO1NqcilZEKm6tGhSyN?si=1sc2dGTsQkuIP5PaSavUnA)
+[The Roman Mars Mazda Virus](https://open.spotify.com/episode/5X3PF75Kz712JaK2liiZlW?si=hBsH7bnyTbCOFlzIxSYMnQ)
+
+
 ---
 # Thematic Podcasts
-These podcasts are more thematic than the above: each week's content is less subject to change than the general knowledge podcasts. Thus, I am just going to attach the 'ABOUT' section from spotify.
+These podcasts are more thematic than the above: each week's content is less subject to change than the general knowledge podcasts. Thus, I am just going to attach the 'ABOUT' section from Spotify.
+
+## Thought Provoking
+| [<u>The End Of The World with Josh Clark</u>](https://open.spotify.com/show/7sh9DwBEdUngxq1BefmnZ0?si=07Bjf7OsT-OFIVtf-jgz7g) |
+|-|
+| We humans could have a bright future ahead of us that lasts billions of years. But we have to survive the next 200 years first. Join Josh Clark of Stuff You Should Know for a 10-episode deep dive that explores the future of humanity and finds dangers we have never encountered before lurking just ahead. |
+
+
 
 ## Political Podcasts
 | [FiveThirtyEight Politics](https://open.spotify.com/show/3C0iP88KSoGZk5KNWmuyF1?si=T4Uos0N9Q1avOBWjgkemRw) |
