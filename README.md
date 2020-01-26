@@ -53,7 +53,9 @@
 [The Case of the Phanton Caller](https://open.spotify.com/episode/12K7myrJzgp7KOxePKzIFu?si=1kBv0vkdTqi1mmdQ2a91FQ)
 [Adam Pisces and the $2 Coke](https://open.spotify.com/episode/2U6uO1NqcilZEKm6tGhSyN?si=1sc2dGTsQkuIP5PaSavUnA)
 [The Roman Mars Mazda Virus](https://open.spotify.com/episode/5X3PF75Kz712JaK2liiZlW?si=hBsH7bnyTbCOFlzIxSYMnQ)
-
+[The Man in the FBI Hat](https://open.spotify.com/episode/6zybTAPySYxyBKwY0ggzIc?si=khHaeE-FQW2QyNbIC564Ug)
+[Very Quickly to the Drill](https://open.spotify.com/episode/5rbfz85FIsEUTT4hh3bPWY?si=ijlN1S-QQUGrvbIoCO1eGQ)
+[Black Hole, New Jersey](https://open.spotify.com/episode/2sP4jSvNWQWIAjLsAoaOD4?si=TBXsocTESSqnmFkN5nHqTg)
 
 ---
 # Thematic Podcasts
