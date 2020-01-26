@@ -25,12 +25,6 @@
 [How Condoms Work](https://open.spotify.com/episode/0Bky1ceUrg6POaIyJoPc5j?si=TcTqMmqnQ7CLVtGgrDrg5A)   
 [The Baffling Case of the Body On Somerton Beach](https://open.spotify.com/episode/3K5bgTvxx0GNRFcuKN6niS?si=63PNzCmtQLKduOAvFHfIzw)
 
-
-|[<u>The End Of The World with Josh Clark</u>](https://open.spotify.com/show/7sh9DwBEdUngxq1BefmnZ0?si=07Bjf7OsT-OFIVtf-jgz7g)|
-|-|
-|Just listen to the whole thing they're all good.|
-
-
 |[<u>Crazy/Genius</u>](https://open.spotify.com/show/46iJKYSBSvS0pCjp0wLHIG?si=6MBANsANTCGfxKakGOCw7Q)|
 |-|
 [Should We Break Up Amazon](https://open.spotify.com/episode/7mh3QcPKYMptVTdjYXdw5V?si=ExDmWp9WTyiLreC_dg2GLA)   
