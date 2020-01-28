@@ -60,8 +60,6 @@ These podcasts are more thematic than the above: each week's content is less sub
 |-|
 | We humans could have a bright future ahead of us that lasts billions of years. But we have to survive the next 200 years first. Join Josh Clark of Stuff You Should Know for a 10-episode deep dive that explores the future of humanity and finds dangers we have never encountered before lurking just ahead. |
 
-
-
 ## Political Podcasts
 | [FiveThirtyEight Politics](https://open.spotify.com/show/3C0iP88KSoGZk5KNWmuyF1?si=T4Uos0N9Q1avOBWjgkemRw) |
 |-|
